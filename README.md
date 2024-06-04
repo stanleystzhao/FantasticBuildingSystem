@@ -73,17 +73,3 @@ ________________________________________________________________________________
 
 We assume the elevator class is working as intended, and we made no changes to the original Elevator class, except for
 adding a method to get the status of the elevator. 
-
-
-_______________________________________________________________________________________
-
-7. Limitations. Limitations of your program if any. 
-This should include any requirements that were not implemented or were not working correctly
-(including something that might work some of the time).
-
-I didn't implement customizable elevators and capacity and floors due to time constraints,
-so we can only see a scenario of 3 elevator, 10 floors, max capacity of 5.
-
-I did not implement an output panel that can alert user of moves that were not valid.
-For example, the application ought to inform the user if the floor numbers are out of bounds, etc. But it does not 
-as of this version.
