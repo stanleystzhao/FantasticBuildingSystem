@@ -1,4 +1,4 @@
-Fantastic Building System
+Fantastic Building Simulation  System
 
 Shitai Stanley Zhao 
 
@@ -6,7 +6,7 @@ Shitai Stanley Zhao
 _______________________________________________________________________________________
 1. About/Overview.
 
-This is my GUI  project for the Fantastic Building System, implemented using the MVC pattern.
+This is my GUI  project for the Fantastic Building Simulation System, implemented using the MVC pattern.
 
 The application allows users to simulate and control an elevator system within a building.
 
